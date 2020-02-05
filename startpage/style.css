@@ -1,3 +1,9 @@
+@font-face {
+font-family: "SFNS Display";
+src: url("https://italomourag.github.io/startpage/SFNS Display.ttf");
+	
+}
+
 html {
 	font-family: SFNS Display;
         font-weight:bold;
