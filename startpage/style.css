@@ -46,7 +46,7 @@ body {
 .search {
 	width: 30rem;
 	padding: 0.5rem;
-	border: 1px solid #97b3a4;
+	border: 1px solid #444444;
 }
 
 .search-box {
@@ -70,7 +70,7 @@ ul {
 ul > li > p {
 	font-weight: bold;
 	text-align: left;
-	border-bottom: 1px solid #97b3a4;
+	border-bottom: 1px solid #444444;
 	padding-right: 100%;
 }
 
