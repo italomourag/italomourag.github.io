@@ -1,9 +1,12 @@
+
+
 html {
 	font-family: SFNS Display;
         font-weight:bold;
 	font-size: 12px;
 	width: 100vw;
 	height: 100vh;
+	src: url("../fonts/SFNS Display.ttf") format('truetype');
 }
 
 body {
