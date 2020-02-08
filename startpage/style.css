@@ -1,12 +1,9 @@
-
-
 html {
 	font-family: SFNS Display;
         font-weight:bold;
 	font-size: 12px;
 	width: 100vw;
 	height: 100vh;
-	src: url("../startpage/fonts/SFNS Display.ttf") format('truetype');
 }
 
 body {
@@ -15,12 +12,6 @@ body {
 	margin: 0;
 	background-color: #798f83;
 	color: #444444;
-	font-family: SFNS Display;
-        font-weight:bold;
-	font-size: 12px;
-	width: 100vw;
-	height: 100vh;
-	src: url("../startpage/fonts/SFNS Display.ttf") format('truetype');
 }
 
 .container {
